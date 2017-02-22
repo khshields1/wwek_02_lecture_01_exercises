@@ -7,5 +7,5 @@
 7. e) All of the above
 8. b) line-height
 9. a) letter-spacing
-
+10.c) font-style, e) font-weight
 
