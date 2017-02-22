@@ -3,3 +3,4 @@
 3. a) property, d) value
 4. b) padding, d) margin
 5. c) {}
+6. a) ;
