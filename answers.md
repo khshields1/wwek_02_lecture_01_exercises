@@ -6,6 +6,6 @@
 6. a) ;
 7. e) All of the above
 8. b) line-height
-
+9. a) letter-spacing
 
 
