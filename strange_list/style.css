@@ -1,9 +1,17 @@
- div{
-        font-family: Helvetica, Arial, sans-serif;
-        width: 360px;
-        margin: 0 auto;
-        padding: 20px;
-        border:  1px solid red;
+div {background-color: white;
+      font-family: Helvetica, Arial, sans-serif;
+      width: 360px;
+      margin: 0 auto;
+      padding: 20px;
+      border:  1px solid red;
     }
-    ul {color: orange
+
+body {
+      background-color: black;
+  }
+
+    ul li {color: orange;
     }
+    ul ul li {color: blue;
+    }
+ }

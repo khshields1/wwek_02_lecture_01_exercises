@@ -1,0 +1,6 @@
+a) div[ class*="el-" ]{}
+b) [ class*="atr" ]{}
+c) label[ for ]{}
+d) [ id src$=".special" ]{}
+e) [ lang="en-" ]{}
+f) button[""]{}

@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 10px;
+
+}
+div {
+  background-color: silver;
+  border: 5px solid white;
+  text-align: center;
+  padding: 20px;
+}
+
+p {
+  text-align: justify;
+  line-height: 30px;
+}
